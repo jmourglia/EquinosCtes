@@ -1,2 +1,2 @@
 # Equinos Ctes
-Eaquinos de la Pcia de Corrientes
+Equinos de la Pcia de Corrientes.Gráfico de barras.
